@@ -166,7 +166,7 @@ export CORSANYWHERE_BLACKLIST=https://abuse.example.com,http://abuse.example.com
 export CORSANYWHERE_RATELIMIT='50 3 my.example.com my2.example.com'
 node server.js
 ```
-
+## For mangaDB4
 
 ## License
 
